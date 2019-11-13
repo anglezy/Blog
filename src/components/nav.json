@@ -1,0 +1,22 @@
+{
+    "list":[
+        {
+        "path":"/Customer"
+    },
+    {
+        "path":"/writeBlog"
+    },
+     {
+        "path":"/Blog"
+    },
+     {
+        "path": "/About"
+    },
+     {
+        "path":"/Bbs"
+    },
+    {
+        "path": "/Add"
+    }
+]
+}

@@ -27,4 +27,5 @@ npm run e2e
 npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+有关工作原理的详细说明，请查看[guide] （http://vuejs-templates.github.io/webpack/）和[vue-loader的文档] （http://vuejs.github.io/ vue-loader）。
+后台是使用了json-server（npm intsall json-server）npm运行json：server
